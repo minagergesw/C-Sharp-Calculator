@@ -81,7 +81,7 @@ namespace WinFormsApp1
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Tajawal", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(430, 238);
+            this.label2.Location = new System.Drawing.Point(431, 238);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(40, 29);
             this.label2.TabIndex = 4;
